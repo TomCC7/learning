@@ -1,0 +1,15 @@
+[submodule "laravel/learnlaravel"]
+	path = laravel/learnlaravel
+	url = git@github.com:TomCC7/learnlaravel.git
+[submodule "laravel/larabbs"]
+	path = laravel/larabbs
+	url = https://github.com/TomCC7/larabbs.git
+[submodule "opencv/source"]
+	path = opencv/source
+	url = git@github.com:opencv/opencv.git
+[submodule "ComputerNetworking/Computer-Networking-A-Top-Down-Approach-NOTES"]
+	path = ComputerNetworking/Computer-Networking-A-Top-Down-Approach-NOTES
+	url = https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES
+[submodule "CSAPP-Labs"]
+	path = CSAPP-Labs
+	url = git@github.com:TomCC7/CSAPP-Labs.git
