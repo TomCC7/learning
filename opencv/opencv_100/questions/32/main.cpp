@@ -19,10 +19,10 @@ int main(int argc, const char *argv[])
 {
     CV_Assert(argc == 2);
     cv::Mat in = cv::imread(argv[1]);
-    cv::cvtColor(in, in, 6);
-    cv::Mat dft_mat = getDftMat(in);
+    // cv::cvtColor(in, in, 6);
+    // cv::Mat dft_mat = getDftMat(in);
     cv::imshow("in", in);
-    cv::imshow("dft", dft_mat);
+    // cv::imshow("dft", dft_mat);
     while (cv::waitKey() != 27) {}
     cv::destroyAllWindows();
 }
