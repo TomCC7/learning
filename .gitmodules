@@ -13,3 +13,6 @@
 [submodule "ComputerNetworking/Computer-Networking-A-Top-Down-Approach-NOTES"]
 	path = ComputerNetworking/Computer-Networking-A-Top-Down-Approach-NOTES
 	url = https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES
+[submodule "slam/tutorial/src/ROS-Academy-for-Beginners"]
+	path = slam/tutorial/src/ROS-Academy-for-Beginners
+	url = https://github.com/DroidAITech/ROS-Academy-for-Beginners.git
